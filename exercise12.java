@@ -6,8 +6,9 @@ public class exercise12 {
     System.out.println("|                        |");
     System.out.println("|Litres:          44:00  |");
     System.out.println("|Price/ Litre     1.71   |");
-    System.out.println("|********");
-    System.out.println("********");
+    System.out.println("|                        |");
+    System.out.println("|                        |");
     System.out.println("+------------------------+");
     
+}
 }
