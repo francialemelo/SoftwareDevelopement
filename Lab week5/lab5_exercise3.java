@@ -7,8 +7,12 @@ public class lab5_exercise3 {
  Scanner input = new Scanner(System.in);
  double num;
 
-System.out.print("Enter First Name: ");
+System.out.print("Enter a decimal Number: ");
 num= input.nextDouble();
+
+System.out.println("number enter is :" + num);
+
 
     }
 }
+
