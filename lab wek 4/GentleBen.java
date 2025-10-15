@@ -11,7 +11,7 @@ movies */
         //double odds = 2.5 ;
 
         String output = "The original " + book  + " told the story of the " + theme + " between a large male bear named "   ;
-        output = output + "a boy \nnamed  "  + name2 + ". The story provided the basis for the  " + year1 + " film Gentle Giant (" + year1 + " ) ";
+        output = output + "a boy \nnamed  "  + name1 + ". The story provided the basis for the  " + name2 + " film Gentle Giant (" + year1 + " ) ";
         output = output + ", the popular late \n" + year2 +"s U.S. television series Gentle Ben, a" +year4 +"s animated cartoon and two early" ;
         output = output + year3 + "s made-for-TV movies"; 
 
