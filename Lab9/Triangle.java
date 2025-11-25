@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Triangle{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
-        int side1, side2, side3, valid=0;3
+        int side1, side2, side3, valid=0;
         
         System.out.println("Enter lengths of 3 sides of a triangle: ");
         side1=input.nextInt();
