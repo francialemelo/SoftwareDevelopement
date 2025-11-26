@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class EvenOdd {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-    int num1 ;
+    int num1 = 0;
 
-    System.out.print("Enter your age: ");
+    System.out.print("Enter a number: ");
     num1=input.nextInt();
 
     if(num1%2 == 0){
@@ -17,7 +17,7 @@ public class EvenOdd {
             
         }
 
-        
+        input.close();
     }
     
 }
