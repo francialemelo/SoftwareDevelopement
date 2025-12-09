@@ -17,7 +17,7 @@ public class Exercise2 {
          pounds= euro*rate;
 
          System.out.print(name+", "+ euro +" will get you" + pounds + " pounds sterling");
-
+    input.close();
     }
     
 }
