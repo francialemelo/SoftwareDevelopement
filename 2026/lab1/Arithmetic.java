@@ -25,8 +25,8 @@ public class Arithmetic {
     System.out.println(" + " + third + "= " + result  );
 
 
-     int number =  0;
-     System.out.println(number);
+     int number =  5;
+     System.out.println("aqui"+ number);
      System.out.println(number++);
      System.out.println(number);
      System.out.println(++number);
