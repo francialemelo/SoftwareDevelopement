@@ -6,7 +6,7 @@ public class SixthLoop {
           int i=0, counter  ;
 
         
-           System.out.println("Enter a loop couter value:");
+           System.out.println("Enter a loop counter value:");
            counter= input.nextInt();
            System.out.println("before loop");
            
@@ -17,7 +17,6 @@ public class SixthLoop {
           }
 
           System.out.println("After loop");
-
 
 
     }
