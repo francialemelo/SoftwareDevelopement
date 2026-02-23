@@ -8,7 +8,7 @@ public class Cubes {
 
         Scanner input = new Scanner(System.in);
          int number = 0 , total=0;
-         String  output = ""; 
+         //String  output = ""; 
 
          System.out.print("Enter a Number");
         number = input.nextInt();
@@ -26,7 +26,7 @@ public class Cubes {
     output += number + "^3= " +total ;
     System.out.println(output);
     input.close();
-        5
+        
     }
     
 }
