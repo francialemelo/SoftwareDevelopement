@@ -1,4 +1,4 @@
-public class Even {
+/*public class Even {
     public static void main(String[] args) {
      
          for(int x=2; x<=50 ; x+=2){
@@ -9,3 +9,4 @@ public class Even {
     }
     
 }
+*/
