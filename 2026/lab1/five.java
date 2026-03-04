@@ -10,13 +10,13 @@ public class five {
             if (i % 5 == 0) {
                 
                 System.out.print(i);
-                // Print a comma and space only if it's not the last number
+                
                 if (i != 50) {
                     System.out.print(", ");
                 }
             }
         }
-        // Print a new line at the end
+        
         System.out.println();
     }
     
