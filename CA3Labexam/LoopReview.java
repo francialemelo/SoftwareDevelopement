@@ -20,7 +20,7 @@ public class LoopReview {
         System.out.println();
         System.out.println("do while");
         System.out.println("-- -----"); 
-        i = 1;
+        i = 1;jh
         do{
            System.out.println("Assessment " + i); 
            i++;
